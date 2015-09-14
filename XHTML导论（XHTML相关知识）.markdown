@@ -1,4 +1,4 @@
-﻿# XHTML导论（XHTML相关知识）
+# XHTML导论（XHTML相关知识）
 
 标签（空格分隔）： 未分类
 
